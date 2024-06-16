@@ -1,0 +1,28 @@
+
+header{
+	background:blueviolet; 
+	height: 50px;
+}
+
+.leftbar{
+	padding:0%; 
+	background:skyblue; 
+	width:50%; 
+	height:500px; 
+	float:left;
+}
+
+.rightbar{
+	padding:0%;
+	background:red;
+	width:50%;
+	height:500px;
+	float:left;
+}
+
+.clear{clear: both}
+
+.foot{
+	background:paleturquoise;
+	height:50px;
+}
